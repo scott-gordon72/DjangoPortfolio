@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "${workspaceFolder:DjangoPortfolio}/db.sqlite3",
+            "driver": "SQLite",
+            "name": "sqlite",
+            "previewLimit": 50
+        }
+    ],
+    "sqltools.useNodeRuntime": true,
+    "git.ignoreLimitWarning": true
+}
